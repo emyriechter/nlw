@@ -13,3 +13,5 @@ Projeto construído no evento NextLevel Week (NLW) da RocketSeat 🚀
 - HTML
 - CSS
 - Git e Github
+
+By Emelyne Riechter 🖤
